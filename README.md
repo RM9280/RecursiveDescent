@@ -3,8 +3,8 @@ The parser recognizes a very simple expression grammar consisting of integer lit
 
 The program demonstrates:
 
-How recursive descent parsing works
-How grammars are translated into parsing functions
+How recursive descent parsing works,
+How grammars are translated into parsing functions,
 How token streams are consumed and backtracked
 
 Grammer:
