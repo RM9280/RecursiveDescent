@@ -8,7 +8,11 @@ How grammars are translated into parsing functions
 How token streams are consumed and backtracked
 
 Grammer:
+
 P  → E
+
 E  → T E'
+
 E' → + T E' | ε
+
 T  → int
